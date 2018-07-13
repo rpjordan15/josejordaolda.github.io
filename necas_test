@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>All about Inês!!</title>
+
+    <style>
+    
+    h2 {
+        color: rgb(0, 232, 15)
+    }
+    
+    body {
+        background-color:salmon;
+    }
+
+    </style>
+
+</head>
+<body>
+    <h1>Esta página é toooooooda sobre a <strong>Necas!!!</strong></h1>
+    <img src = "https://scontent.flis8-2.fna.fbcdn.net/v/t1.0-9/21077474_10214433472535228_5772195121660483162_n.jpg?_nc_cat=0&oh=2938cc0ebebfa73d9f9d4c535e5e3bc4&oe=5BE52B42" alt = "Pic of Necas" width = "300">
+
+    <h2>Dia a dia</h2>
+
+    <p>8:00 A <em>necas</em> dorme</p>
+    <p>10:00 A necas continua a dormir <br>
+       10:30 Necas vê o insta gram e volta a adormecer <br>
+       </p>
+
+    <ul>
+        <li> Vê o insta  </li>
+        <li> vê o Face </li>
+        <li> volta a adormecer </li>
+    </ul>
+
+    <ol>
+        <li> Este é o primeiro item </li>
+        <li> Este é o segundo item</li>
+        <li> Este é o terceiro item</li>
+        <li> Este é o quarto item</li>
+
+    </ol>
+
+
+</body>
+</html>
